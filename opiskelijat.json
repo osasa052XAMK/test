@@ -1,0 +1,38 @@
+[
+{
+ "luokka": "TKMI17SP",       
+        "opiskelija" : [
+        {
+        "etunimi" : "Aku",
+        "sukunimi" : "Ankka",
+        "ajokortti" : "true",
+        "harrastukset" : ["Curling"]
+        },
+        {
+        "etunimi" : "Ville",
+        "sukunimi" : "Valo",
+        "ajokortti" : false,
+        "harrastukset" : ["Juoksu","Pelit"]
+        }
+        ]
+},
+{
+    "luokka": "TKMI17SM",       
+           "opiskelija" : [
+           {
+           "etunimi" : "Maija",
+           "sukunimi" : "Suutari",
+           "ajokortti" : true,
+           "harrastukset" : ["Vapaapaini","Ristisanat"]
+           },
+           {
+           "etunimi" : "Lissu",
+           "sukunimi" : "Valo",
+           "ajokortti" : false,
+           "harrastukset" : ["Rumpujen soitto","Lagom"]
+           }
+           ]
+   }   
+]
+
+
